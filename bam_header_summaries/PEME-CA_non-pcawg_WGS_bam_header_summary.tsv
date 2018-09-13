@@ -1,4 +1,4 @@
-project_id	donor_id	file_id	bundle_id	object_id	filename	SM	LB	PL	PM	PU	AS	PI	CN	DT
+project_id	donor_id	file_id	bundle_id	object_id	filename	Sample (SM)	Library (LB)	Platorm (PL)	Platform Model (PM)	Platform Unit (PU)	Genome Assembly Identifier (AS)	Predicted Median Insert Size (PI)	Name of Sequencing Centre (CN)	Date run was produced (DT)
 PEME-CA	DO232919	FI812065	3c13b468-4410-52e7-802e-a4be630ca713	EGAZ00001254436	0898ddaac100e6309c47021aed3dd7d6.tumor_MDT-AP-2514_merged.mdup.bam	sample_tumor_MDT-AP-2514	tumor_MDT-AP-2514	ILLUMINA						
 PEME-CA	DO232874	FI812003	f98b7d2a-7257-56b2-8631-6262e6159549	EGAZ00001254404	34060ee65c986f2574a6d0d22cafdfb4.tumor_MDT-AP-2075_merged.mdup.bam	sample_tumor_MDT-AP-2075	tumor_MDT-AP-2075	ILLUMINA						
 PEME-CA	DO232946	FI811949	e44da9ea-137d-51e0-a3aa-add4c353ff41	EGAZ00001254351	50f9f11f50eb33a270bbe10336aad660.tumor_MDT-AP-0009_merged.mdup.bam	sample_tumor_MDT-AP-0009	tumor_MDT-AP-0009	ILLUMINA						

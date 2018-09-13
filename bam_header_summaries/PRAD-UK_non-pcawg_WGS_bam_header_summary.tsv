@@ -1,4 +1,4 @@
-project_id	donor_id	file_id	bundle_id	object_id	filename	SM	LB	PL	PM	PU	AS	PI	CN	DT
+project_id	donor_id	file_id	bundle_id	object_id	filename	Sample (SM)	Library (LB)	Platorm (PL)	Platform Model (PM)	Platform Unit (PU)	Genome Assembly Identifier (AS)	Predicted Median Insert Size (PI)	Name of Sequencing Centre (CN)	Date run was produced (DT)
 PRAD-UK	DO224033	FI722149	a28a62ce-90d7-5b43-a924-4604611d9006	EGAR00001272672	c97c2521c9303f76a59d294bb2623ebc.180293_icgc.bam	PD14736a	PD14736a_1_38388	HiSeq		164_2_3		307	EXT	
 PRAD-UK	DO224016	FI722114	8ed0953c-fb50-5422-bc7e-46883d4b7e0b	EGAR00001272665	5e0184a066bb133002d276c19c909855.180269_icgc.bam	PD14712a	PD14712a_1_38432	HiSeq		497_8		300	EXT	
 PRAD-UK	DO51965	FI722122	a8f0bd21-e24a-522d-a328-6cb21bf176b1	EGAR00001219209	c58f94aa1e15ea9cfc4443ae41a51ad5.180071_icgc.bam	PD13412a	LP6005341-DNA_A05_lib_29427	HiSeq		HS2000-530_88_2		297	EXT	

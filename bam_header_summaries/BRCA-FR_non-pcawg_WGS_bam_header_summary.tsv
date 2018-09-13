@@ -1,4 +1,4 @@
-project_id	donor_id	file_id	bundle_id	object_id	filename	SM	LB	PL	PM	PU	AS	PI	CN	DT
+project_id	donor_id	file_id	bundle_id	object_id	filename	Sample (SM)	Library (LB)	Platorm (PL)	Platform Model (PM)	Platform Unit (PU)	Genome Assembly Identifier (AS)	Predicted Median Insert Size (PI)	Name of Sequencing Centre (CN)	Date run was produced (DT)
 BRCA-FR	DO228324	FI813133	43c6723e-da8f-5b67-b6f8-cd8c0e5acc41	EGAR00001532004	4c556390260ee9d1b47ed07aef027810.ls1475_C6DRBANXX_8_5nf.ua.bam	NONE								
 BRCA-FR	DO228324	FI813136	af3034cf-d52a-56f4-a757-5c41f5f5f24c	EGAR00001532016	c3605ed295a053f931e5de6889b0e2b9.ls1488_C6KB3ANXX_8_13nf.ua.bam	NONE								
 BRCA-FR	DO228314	FI813100	3bf07497-9651-5821-a27e-cbd7d1e7d4b2	EGAR00001531976	aa3f25351bc3c7ac3fd1de3fef811b28.ls1444_C6K6CANXX_3_16nf.ua.bam	NONE								

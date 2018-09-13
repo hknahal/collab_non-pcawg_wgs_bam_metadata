@@ -1,4 +1,4 @@
-project_id	donor_id	file_id	bundle_id	object_id	filename	SM	LB	PL	PM	PU	AS	PI	CN	DT
+project_id	donor_id	file_id	bundle_id	object_id	filename	Sample (SM)	Library (LB)	Platorm (PL)	Platform Model (PM)	Platform Unit (PU)	Genome Assembly Identifier (AS)	Predicted Median Insert Size (PI)	Name of Sequencing Centre (CN)	Date run was produced (DT)
 PRAD-FR	DO229064	FI802837	13a5a7f1-6eea-567f-ac4b-9f1a879d3488	EGAR00001502656	b4b87425d164fa7a399e5ff5e89a9e17.ls183_D1132ACXX_8_16.ua.bam	NONE								
 PRAD-FR	DO229070	FI802844	a71bdaec-d0ea-541e-8a8c-df54d7fcb0d8	EGAR00001503014	317e9ee30b30abd4fe0510705f898095.ls759_D1YTDACXX_1_21.ua.bam	NONE								
 PRAD-FR	DO229076	FI802817	1cf463b4-2db8-58ea-ae0f-abbea9aae97f	EGAR00001503416	777145e5360e8707271a17c7d0255d23.ls84_D1117ACXX_7_5.ua.bam	NONE								

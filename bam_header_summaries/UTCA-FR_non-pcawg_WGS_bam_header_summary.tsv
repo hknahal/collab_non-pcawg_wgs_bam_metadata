@@ -1,4 +1,4 @@
-project_id	donor_id	file_id	bundle_id	object_id	filename	SM	LB	PL	PM	PU	AS	PI	CN	DT
+project_id	donor_id	file_id	bundle_id	object_id	filename	Sample (SM)	Library (LB)	Platorm (PL)	Platform Model (PM)	Platform Unit (PU)	Genome Assembly Identifier (AS)	Predicted Median Insert Size (PI)	Name of Sequencing Centre (CN)	Date run was produced (DT)
 UTCA-FR	DO229094	FI801259	a9c45936-607f-537b-81f9-fb1b9bd48609	EGAR00001526511	403f6ed1b309ce322c172b29b205f407.ls3257_C8VRLANXX_3_9nf.ua.bam	NONE								
 UTCA-FR	DO229539	FI801283	168a73f8-4436-52e8-9935-a78d105aee0b	EGAR00001598324	b8f70265279f0ec90d9c024e2d5201c1.ls2775_C6H7LANXX_4_25nf.ua.bam	NONE								
 UTCA-FR	DO229094	FI801286	db855377-cdd8-5b66-adf6-32dd29cd35e1	EGAR00001526536	4ffad5c80d44879bdb0a1f7e6b719b0b.ls3414_C9FD4ANXX_5_10nf.ua.bam	NONE								

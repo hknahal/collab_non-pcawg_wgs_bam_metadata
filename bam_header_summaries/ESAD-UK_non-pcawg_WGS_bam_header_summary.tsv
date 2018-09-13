@@ -1,4 +1,4 @@
-project_id	donor_id	file_id	bundle_id	object_id	filename	SM	LB	PL	PM	PU	AS	PI	CN	DT
+project_id	donor_id	file_id	bundle_id	object_id	filename	Sample (SM)	Library (LB)	Platorm (PL)	Platform Model (PM)	Platform Unit (PU)	Genome Assembly Identifier (AS)	Predicted Median Insert Size (PI)	Name of Sequencing Centre (CN)	Date run was produced (DT)
 ESAD-UK	DO50329	FI811348	9accc854-12c8-566b-9f5c-70bc588b0a7c	EGAR00001193704	bdd383bbac0fb653c5c3bc0fe00be1cb.LP6007539-DNA_A01.bam	LP6007539-DNA_A01	LP6007539-DNA_A01							
 ESAD-UK	DO229455	FI811300	ff1828af-fa31-568c-af59-50715e975522	EGAR00001436334	1456da0832db7d69cc4344782e9bf9b7.LP6008202-DNA_D02.bam	LP6008202-DNA_D02	LP6008202-DNA_D02	ILLUMINA						
 ESAD-UK	DO228992	FI811302	95ed6f48-cdd4-5f17-ba6e-5dd2fa7e87ab	EGAR00001500337	2ab5d8c71834113918a55295c8f65fa7.LP6008264-DNA_C01.bam	LP6008264-DNA_C01	LP6008264-DNA_C01	ILLUMINA						

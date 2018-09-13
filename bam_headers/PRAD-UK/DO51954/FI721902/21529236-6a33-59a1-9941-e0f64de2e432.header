@@ -1,0 +1,46 @@
+@HD	VN:1.0	GO:none	SO:coordinate
+@SQ	SN:1	LN:249250621	AS:37	SP:HUMAN
+@SQ	SN:2	LN:243199373	AS:37	SP:HUMAN
+@SQ	SN:3	LN:198022430	AS:37	SP:HUMAN
+@SQ	SN:4	LN:191154276	AS:37	SP:HUMAN
+@SQ	SN:5	LN:180915260	AS:37	SP:HUMAN
+@SQ	SN:6	LN:171115067	AS:37	SP:HUMAN
+@SQ	SN:7	LN:159138663	AS:37	SP:HUMAN
+@SQ	SN:8	LN:146364022	AS:37	SP:HUMAN
+@SQ	SN:9	LN:141213431	AS:37	SP:HUMAN
+@SQ	SN:10	LN:135534747	AS:37	SP:HUMAN
+@SQ	SN:11	LN:135006516	AS:37	SP:HUMAN
+@SQ	SN:12	LN:133851895	AS:37	SP:HUMAN
+@SQ	SN:13	LN:115169878	AS:37	SP:HUMAN
+@SQ	SN:14	LN:107349540	AS:37	SP:HUMAN
+@SQ	SN:15	LN:102531392	AS:37	SP:HUMAN
+@SQ	SN:16	LN:90354753	AS:37	SP:HUMAN
+@SQ	SN:17	LN:81195210	AS:37	SP:HUMAN
+@SQ	SN:18	LN:78077248	AS:37	SP:HUMAN
+@SQ	SN:19	LN:59128983	AS:37	SP:HUMAN
+@SQ	SN:20	LN:63025520	AS:37	SP:HUMAN
+@SQ	SN:21	LN:48129895	AS:37	SP:HUMAN
+@SQ	SN:22	LN:51304566	AS:37	SP:HUMAN
+@SQ	SN:X	LN:155270560	AS:37	SP:HUMAN
+@SQ	SN:Y	LN:59373566	AS:37	SP:HUMAN
+@SQ	SN:MT	LN:16569	AS:37	SP:HUMAN
+@RG	ID:1034802	PL:HiSeq	PU:189_2	LB:LP6007142-DNA_A01_lib_22826	PI:295	DS:short	MI:532	SM:PD11329i	PG:1034802	CN:EXT
+@RG	ID:1036262	PL:HiSeq	PU:226_2	LB:LP6007142-DNA_A01_lib_22826	PI:295	DS:short	MI:532	SM:PD11329i	PG:1036262	CN:EXT
+@RG	ID:1037602	PL:HiSeq	PU:177_7	LB:LP6007142-DNA_A01_lib_22826	PI:295	DS:short	MI:532	SM:PD11329i	PG:1037602	CN:EXT
+@RG	ID:1037611	PL:HiSeq	PU:177_8	LB:LP6007142-DNA_A01_lib_22826	PI:295	DS:short	MI:532	SM:PD11329i	PG:1037611	CN:EXT
+@RG	ID:1037756	PL:HiSeq	PU:189_1	LB:LP6007142-DNA_A01_lib_22826	PI:295	DS:short	MI:532	SM:PD11329i	PG:1037756	CN:EXT
+@PG	ID:1033419	PN:bwa	PP:1033420	VN:0.5.9-r16+rugo	CL:/software/CGP/bin/bwa aln -l 32 -t 6 -f data/40194_822/1033419.sai ref/human/37/genome.fa data/40194_822/full_2.fastq
+@PG	ID:1033420	PN:bwa	VN:0.5.9-r16+rugo	CL:/software/CGP/bin/bwa aln -l 32 -t 6 -f data/40194_822/1033420.sai ref/human/37/genome.fa data/40194_822/full_1.fastq
+@PG	ID:1034307	PN:bwa	PP:1034308	VN:0.5.9-r16+rugo	CL:/software/CGP/bin/bwa aln -l 32 -t 6 -f data/40195_822/1034307.sai ref/human/37/genome.fa data/40195_822/full_2.fastq
+@PG	ID:1034308	PN:bwa	VN:0.5.9-r16+rugo	CL:/software/CGP/bin/bwa aln -l 32 -t 6 -f data/40195_822/1034308.sai ref/human/37/genome.fa data/40195_822/full_1.fastq
+@PG	ID:1034327	PN:bwa	PP:1034379	VN:0.5.9-r16+rugo	CL:/software/CGP/bin/bwa aln -l 32 -t 6 -f data/40191_822/1034327.sai ref/human/37/genome.fa data/40191_822/full_2.fastq
+@PG	ID:1034379	PN:bwa	VN:0.5.9-r16+rugo	CL:/software/CGP/bin/bwa aln -l 32 -t 6 -f data/40191_822/1034379.sai ref/human/37/genome.fa data/40191_822/full_1.fastq
+@PG	ID:1034381	PN:bwa	PP:1034382	VN:0.5.9-r16+rugo	CL:/software/CGP/bin/bwa aln -l 32 -t 6 -f data/40192_822/1034381.sai ref/human/37/genome.fa data/40192_822/full_2.fastq
+@PG	ID:1034382	PN:bwa	VN:0.5.9-r16+rugo	CL:/software/CGP/bin/bwa aln -l 32 -t 6 -f data/40192_822/1034382.sai ref/human/37/genome.fa data/40192_822/full_1.fastq
+@PG	ID:1034387	PN:bwa	PP:1034388	VN:0.5.9-r16+rugo	CL:/software/CGP/bin/bwa aln -l 32 -t 6 -f data/40193_822/1034387.sai ref/human/37/genome.fa data/40193_822/full_2.fastq
+@PG	ID:1034388	PN:bwa	VN:0.5.9-r16+rugo	CL:/software/CGP/bin/bwa aln -l 32 -t 6 -f data/40193_822/1034388.sai ref/human/37/genome.fa data/40193_822/full_1.fastq
+@PG	ID:1034802	PN:bwa	PP:1033419	VN:0.5.9-r16+rugo	CL:/software/CGP/bin/bwa sampe -P -a 532 ref/human/37/genome.fa data/40194_822/1033420.sai data/40194_822/1033419.sai data/40194_822/full_1.fastq data/40194_822/full_2.fastq
+@PG	ID:1036262	PN:bwa	PP:1034307	VN:0.5.9-r16+rugo	CL:/software/CGP/bin/bwa sampe -P -a 532 ref/human/37/genome.fa data/40195_822/1034308.sai data/40195_822/1034307.sai data/40195_822/full_1.fastq data/40195_822/full_2.fastq
+@PG	ID:1037602	PN:bwa	PP:1034327	VN:0.5.9-r16+rugo	CL:/software/CGP/bin/bwa sampe -P -a 532 ref/human/37/genome.fa data/40191_822/1034379.sai data/40191_822/1034327.sai data/40191_822/full_1.fastq data/40191_822/full_2.fastq
+@PG	ID:1037611	PN:bwa	PP:1034381	VN:0.5.9-r16+rugo	CL:/software/CGP/bin/bwa sampe -P -a 532 ref/human/37/genome.fa data/40192_822/1034382.sai data/40192_822/1034381.sai data/40192_822/full_1.fastq data/40192_822/full_2.fastq
+@PG	ID:1037756	PN:bwa	PP:1034387	VN:0.5.9-r16+rugo	CL:/software/CGP/bin/bwa sampe -P -a 532 ref/human/37/genome.fa data/40193_822/1034388.sai data/40193_822/1034387.sai data/40193_822/full_1.fastq data/40193_822/full_2.fastq

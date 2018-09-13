@@ -1,0 +1,42 @@
+@HD	VN:1.0	GO:none	SO:coordinate
+@SQ	SN:1	LN:249250621	AS:37	SP:HUMAN
+@SQ	SN:2	LN:243199373	AS:37	SP:HUMAN
+@SQ	SN:3	LN:198022430	AS:37	SP:HUMAN
+@SQ	SN:4	LN:191154276	AS:37	SP:HUMAN
+@SQ	SN:5	LN:180915260	AS:37	SP:HUMAN
+@SQ	SN:6	LN:171115067	AS:37	SP:HUMAN
+@SQ	SN:7	LN:159138663	AS:37	SP:HUMAN
+@SQ	SN:8	LN:146364022	AS:37	SP:HUMAN
+@SQ	SN:9	LN:141213431	AS:37	SP:HUMAN
+@SQ	SN:10	LN:135534747	AS:37	SP:HUMAN
+@SQ	SN:11	LN:135006516	AS:37	SP:HUMAN
+@SQ	SN:12	LN:133851895	AS:37	SP:HUMAN
+@SQ	SN:13	LN:115169878	AS:37	SP:HUMAN
+@SQ	SN:14	LN:107349540	AS:37	SP:HUMAN
+@SQ	SN:15	LN:102531392	AS:37	SP:HUMAN
+@SQ	SN:16	LN:90354753	AS:37	SP:HUMAN
+@SQ	SN:17	LN:81195210	AS:37	SP:HUMAN
+@SQ	SN:18	LN:78077248	AS:37	SP:HUMAN
+@SQ	SN:19	LN:59128983	AS:37	SP:HUMAN
+@SQ	SN:20	LN:63025520	AS:37	SP:HUMAN
+@SQ	SN:21	LN:48129895	AS:37	SP:HUMAN
+@SQ	SN:22	LN:51304566	AS:37	SP:HUMAN
+@SQ	SN:X	LN:155270560	AS:37	SP:HUMAN
+@SQ	SN:Y	LN:59373566	AS:37	SP:HUMAN
+@SQ	SN:MT	LN:16569	AS:37	SP:HUMAN
+@RG	ID:1090317	PL:HiSeq	PU:unknown_2_4	LB:Bova_19892_A21_L_Adrenal_Met_lib_24679	PI:467	DS:short	MI:515	SM:PD12337d	PG:1090317	CN:EXT
+@RG	ID:1090319	PL:HiSeq	PU:unknown_1	LB:Bova_19892_A21_L_Adrenal_Met_lib_24679	PI:467	DS:short	MI:515	SM:PD12337d	PG:1090319	CN:EXT
+@RG	ID:1090322	PL:HiSeq	PU:unknown_3_5	LB:Bova_19892_A21_L_Adrenal_Met_lib_24679	PI:467	DS:short	MI:515	SM:PD12337d	PG:1090322	CN:EXT
+@RG	ID:1090323	PL:HiSeq	PU:unknown_2_8	LB:Bova_19892_A21_L_Adrenal_Met_lib_24679	PI:467	DS:short	MI:515	SM:PD12337d	PG:1090323	CN:EXT
+@PG	ID:1090242	PN:bwa	PP:1090243	VN:0.5.9-r16+rugo	CL:/software/CGP/bin/bwa aln -l 32 -t 6 -f data/43149_822/1090242.sai ref/human/37/genome.fa data/43149_822/full_2.fastq
+@PG	ID:1090243	PN:bwa	VN:0.5.9-r16+rugo	CL:/software/CGP/bin/bwa aln -l 32 -t 6 -f data/43149_822/1090243.sai ref/human/37/genome.fa data/43149_822/full_1.fastq
+@PG	ID:1090277	PN:bwa	PP:1090278	VN:0.5.9-r16+rugo	CL:/software/CGP/bin/bwa aln -l 32 -t 6 -f data/43151_822/1090277.sai ref/human/37/genome.fa data/43151_822/full_2.fastq
+@PG	ID:1090278	PN:bwa	VN:0.5.9-r16+rugo	CL:/software/CGP/bin/bwa aln -l 32 -t 6 -f data/43151_822/1090278.sai ref/human/37/genome.fa data/43151_822/full_1.fastq
+@PG	ID:1090317	PN:bwa	PP:1090337	VN:0.5.9-r16+rugo	CL:/software/CGP/bin/bwa sampe -P -a 515 ref/human/37/genome.fa data/43150_822/1090338.sai data/43150_822/1090337.sai data/43150_822/full_1.fastq data/43150_822/full_2.fastq
+@PG	ID:1090319	PN:bwa	PP:1090242	VN:0.5.9-r16+rugo	CL:/software/CGP/bin/bwa sampe -P -a 515 ref/human/37/genome.fa data/43149_822/1090243.sai data/43149_822/1090242.sai data/43149_822/full_1.fastq data/43149_822/full_2.fastq
+@PG	ID:1090322	PN:bwa	PP:1090277	VN:0.5.9-r16+rugo	CL:/software/CGP/bin/bwa sampe -P -a 515 ref/human/37/genome.fa data/43151_822/1090278.sai data/43151_822/1090277.sai data/43151_822/full_1.fastq data/43151_822/full_2.fastq
+@PG	ID:1090323	PN:bwa	PP:1090434	VN:0.5.9-r16+rugo	CL:/software/CGP/bin/bwa sampe -P -a 515 ref/human/37/genome.fa data/43152_822/1090435.sai data/43152_822/1090434.sai data/43152_822/full_1.fastq data/43152_822/full_2.fastq
+@PG	ID:1090337	PN:bwa	PP:1090338	VN:0.5.9-r16+rugo	CL:/software/CGP/bin/bwa aln -l 32 -t 6 -f data/43150_822/1090337.sai ref/human/37/genome.fa data/43150_822/full_2.fastq
+@PG	ID:1090338	PN:bwa	VN:0.5.9-r16+rugo	CL:/software/CGP/bin/bwa aln -l 32 -t 6 -f data/43150_822/1090338.sai ref/human/37/genome.fa data/43150_822/full_1.fastq
+@PG	ID:1090434	PN:bwa	PP:1090435	VN:0.5.9-r16+rugo	CL:/software/CGP/bin/bwa aln -l 32 -t 6 -f data/43152_822/1090434.sai ref/human/37/genome.fa data/43152_822/full_2.fastq
+@PG	ID:1090435	PN:bwa	VN:0.5.9-r16+rugo	CL:/software/CGP/bin/bwa aln -l 32 -t 6 -f data/43152_822/1090435.sai ref/human/37/genome.fa data/43152_822/full_1.fastq
